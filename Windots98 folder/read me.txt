@@ -1,0 +1,1 @@
+welcome to windots98 on python an here is the user name ["Gavin", "Alex", "Jordan", "Skyler", "Reese", "Taylor", "Morgan"] an PASSWORDS ["pass123", "windows", "admin", "guest", "1998", "dot98", "letmein"]
